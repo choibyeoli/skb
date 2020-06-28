@@ -80,34 +80,34 @@ udp://@239.192.51.5:49220
 #EXTINF:0,27 - Channel 27
 udp://@239.192.51.8:49220
 
-#EXTINF:0,28 - Channel 28
+#EXTINF:0,28 - OCN Movies
 udp://@239.192.51.7:49220
 
-#EXTINF:0,29 - OCN Movies
+#EXTINF:0,29 - Channel 29
 udp://@239.192.51.6:49220
 
-#EXTINF:0,30 - Channel 30
+#EXTINF:0,30 - EBS
 udp://@239.192.52.9:49220
 
-#EXTINF:0,31 - Channel 31
+#EXTINF:0,31 - EBS
 udp://@239.192.52.4:49220
 
-#EXTINF:0,32 - Channel 32
+#EXTINF:0,32 - OCN dramatic cinema
 udp://@239.192.52.8:49220
 
-#EXTINF:0,33 - Channel 33
+#EXTINF:0,33 - NS홈쇼핑
 udp://@239.192.52.10:49220
 
-#EXTINF:0,34 - Channel 34
+#EXTINF:0,34 - MBC N
 udp://@239.192.53.4:49220
 
-#EXTINF:0,35 - Channel 35
+#EXTINF:0,35 - tvN
 udp://@239.192.53.7:49220
 
-#EXTINF:0,36 - Channel 36
+#EXTINF:0,36 - OCN Thrills
 udp://@239.192.53.9:49220
 
-#EXTINF:0,37 - Channel 37
+#EXTINF:0,37 - 홈앤쇼핑
 udp://@239.192.53.6:49220
 
 #EXTINF:0,38 - Channel 38
@@ -227,7 +227,7 @@ udp://@239.192.62.66:49220
 #EXTINF:0,76 - Channel 76
 udp://@239.192.62.64:49220
 
-#EXTINF:0,77 - TVN
+#EXTINF:0,77 - tvN
 udp://@239.192.62.63:49220
 
 #EXTINF:0,78 - Channel 78
