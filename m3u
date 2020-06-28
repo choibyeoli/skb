@@ -1,38 +1,38 @@
 #EXTM3U
-#EXTINF:0,1 - Channel 1
+#EXTINF:0,1 - KBS1
 udp://@239.192.38.1:49220
 
-#EXTINF:0,2 - Channel 2
+#EXTINF:0,2 - KBS2
 udp://@239.192.39.1:49220
 
-#EXTINF:0,3 - Channel 3
+#EXTINF:0,3 - MBC
 udp://@239.192.40.26:49220
 
-#EXTINF:0,4 - Channel 4
+#EXTINF:0,4 - SBS
 udp://@239.192.41.2:49220
 
-#EXTINF:0,5 - Channel 5
+#EXTINF:0,5 - EBS1
 udp://@239.192.42.1:49220
 
-#EXTINF:0,6 - Channel 6
+#EXTINF:0,6 - EBS2
 udp://@239.192.42.2:49220
 
-#EXTINF:0,7 - Channel 7
+#EXTINF:0,7 - MBN
 udp://@239.192.45.5:49220
 
-#EXTINF:0,8 - Channel 8
+#EXTINF:0,8 - 채널A
 udp://@239.192.47.4:49220
 
-#EXTINF:0,9 - Channel 9
+#EXTINF:0,9 - YTN
 udp://@239.192.47.5:49220
 
-#EXTINF:0,10 - Channel 10
+#EXTINF:0,10 - 엠넷
 udp://@239.192.47.7:49220
 
-#EXTINF:0,11 - Channel 11
+#EXTINF:0,11 - 현대홈쇼핑
 udp://@239.192.48.5:49220
 
-#EXTINF:0,12 - Channel 12
+#EXTINF:0,12 - MBC드라마
 udp://@239.192.48.4:49220
 
 #EXTINF:0,13 - Channel 13
