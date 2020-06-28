@@ -23,46 +23,46 @@ udp://@239.192.45.5:49220
 #EXTINF:0,8 - 채널A
 udp://@239.192.47.4:49220
 
-#EXTINF:0,9 - YTN
+#EXTINF:0,9 - Channel 9
 udp://@239.192.47.5:49220
 
-#EXTINF:0,10 - 엠넷
+#EXTINF:0,10 - YTN
 udp://@239.192.47.7:49220
 
-#EXTINF:0,11 - 현대홈쇼핑
+#EXTINF:0,11 - 엠넷
 udp://@239.192.48.5:49220
 
-#EXTINF:0,12 - MBC드라마
+#EXTINF:0,12 - 현대홈쇼핑
 udp://@239.192.48.4:49220
 
-#EXTINF:0,13 - Channel 13
+#EXTINF:0,13 - MBC drama
 udp://@239.192.48.6:49220
 
-#EXTINF:0,14 - Channel 14
+#EXTINF:0,14 - MBC ON
 udp://@239.192.48.7:49220
 
-#EXTINF:0,15 - Channel 15
+#EXTINF:0,15 - KBS drama
 udp://@239.192.49.6:49220
 
-#EXTINF:0,16 - Channel 16
+#EXTINF:0,16 - SKY Sports
 udp://@239.192.49.5:49220
 
-#EXTINF:0,17 - Channel 17
+#EXTINF:0,17 - SBS Plus
 udp://@239.192.49.7:49220
 
-#EXTINF:0,18 - Channel 18
+#EXTINF:0,18 - GS홈쇼핑
 udp://@239.192.49.4:49220
 
-#EXTINF:0,19 - Channel 19
+#EXTINF:0,19 - TV조선
 udp://@239.192.50.3:49220
 
-#EXTINF:0,20 - Channel 20
+#EXTINF:0,20 - EBS
 udp://@239.192.50.4:49220
 
-#EXTINF:0,21 - Channel 21
+#EXTINF:0,21 - EBS
 udp://@239.192.50.5:49220
 
-#EXTINF:0,22 - Channel 22
+#EXTINF:0,22 - MBC every1
 udp://@239.192.50.6:49220
 
 #EXTINF:0,23 - Channel 23
@@ -71,10 +71,10 @@ udp://@239.192.50.9:49220
 #EXTINF:0,24 - Channel 24
 udp://@239.192.50.8:49220
 
-#EXTINF:0,25 - Channel 25
+#EXTINF:0,25 - EBS
 udp://@239.192.51.4:49220
 
-#EXTINF:0,26 - Channel 26
+#EXTINF:0,26 - EBS
 udp://@239.192.51.5:49220
 
 #EXTINF:0,27 - Channel 27
@@ -83,7 +83,7 @@ udp://@239.192.51.8:49220
 #EXTINF:0,28 - Channel 28
 udp://@239.192.51.7:49220
 
-#EXTINF:0,29 - Channel 29
+#EXTINF:0,29 - OCN Movies
 udp://@239.192.51.6:49220
 
 #EXTINF:0,30 - Channel 30
@@ -227,7 +227,7 @@ udp://@239.192.62.66:49220
 #EXTINF:0,76 - Channel 76
 udp://@239.192.62.64:49220
 
-#EXTINF:0,77 - Channel 77
+#EXTINF:0,77 - TVN
 udp://@239.192.62.63:49220
 
 #EXTINF:0,78 - Channel 78
