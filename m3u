@@ -1,0 +1,1096 @@
+#EXTM3U
+#EXTINF:0,1 - Channel 1
+udp://@239.192.38.1:49220
+
+#EXTINF:0,2 - Channel 2
+udp://@239.192.39.1:49220
+
+#EXTINF:0,3 - Channel 3
+udp://@239.192.40.26:49220
+
+#EXTINF:0,4 - Channel 4
+udp://@239.192.41.2:49220
+
+#EXTINF:0,5 - Channel 5
+udp://@239.192.42.1:49220
+
+#EXTINF:0,6 - Channel 6
+udp://@239.192.42.2:49220
+
+#EXTINF:0,7 - Channel 7
+udp://@239.192.45.5:49220
+
+#EXTINF:0,8 - Channel 8
+udp://@239.192.47.4:49220
+
+#EXTINF:0,9 - Channel 9
+udp://@239.192.47.5:49220
+
+#EXTINF:0,10 - Channel 10
+udp://@239.192.47.7:49220
+
+#EXTINF:0,11 - Channel 11
+udp://@239.192.48.5:49220
+
+#EXTINF:0,12 - Channel 12
+udp://@239.192.48.4:49220
+
+#EXTINF:0,13 - Channel 13
+udp://@239.192.48.6:49220
+
+#EXTINF:0,14 - Channel 14
+udp://@239.192.48.7:49220
+
+#EXTINF:0,15 - Channel 15
+udp://@239.192.49.6:49220
+
+#EXTINF:0,16 - Channel 16
+udp://@239.192.49.5:49220
+
+#EXTINF:0,17 - Channel 17
+udp://@239.192.49.7:49220
+
+#EXTINF:0,18 - Channel 18
+udp://@239.192.49.4:49220
+
+#EXTINF:0,19 - Channel 19
+udp://@239.192.50.3:49220
+
+#EXTINF:0,20 - Channel 20
+udp://@239.192.50.4:49220
+
+#EXTINF:0,21 - Channel 21
+udp://@239.192.50.5:49220
+
+#EXTINF:0,22 - Channel 22
+udp://@239.192.50.6:49220
+
+#EXTINF:0,23 - Channel 23
+udp://@239.192.50.9:49220
+
+#EXTINF:0,24 - Channel 24
+udp://@239.192.50.8:49220
+
+#EXTINF:0,25 - Channel 25
+udp://@239.192.51.4:49220
+
+#EXTINF:0,26 - Channel 26
+udp://@239.192.51.5:49220
+
+#EXTINF:0,27 - Channel 27
+udp://@239.192.51.8:49220
+
+#EXTINF:0,28 - Channel 28
+udp://@239.192.51.7:49220
+
+#EXTINF:0,29 - Channel 29
+udp://@239.192.51.6:49220
+
+#EXTINF:0,30 - Channel 30
+udp://@239.192.52.9:49220
+
+#EXTINF:0,31 - Channel 31
+udp://@239.192.52.4:49220
+
+#EXTINF:0,32 - Channel 32
+udp://@239.192.52.8:49220
+
+#EXTINF:0,33 - Channel 33
+udp://@239.192.52.10:49220
+
+#EXTINF:0,34 - Channel 34
+udp://@239.192.53.4:49220
+
+#EXTINF:0,35 - Channel 35
+udp://@239.192.53.7:49220
+
+#EXTINF:0,36 - Channel 36
+udp://@239.192.53.9:49220
+
+#EXTINF:0,37 - Channel 37
+udp://@239.192.53.6:49220
+
+#EXTINF:0,38 - Channel 38
+udp://@239.192.53.10:49220
+
+#EXTINF:0,39 - Channel 39
+udp://@239.192.53.8:49220
+
+#EXTINF:0,40 - Channel 40
+udp://@239.192.54.7:49220
+
+#EXTINF:0,41 - Channel 41
+udp://@239.192.54.3:49220
+
+#EXTINF:0,42 - Channel 42
+udp://@239.192.54.5:49220
+
+#EXTINF:0,43 - Channel 43
+udp://@239.192.54.9:49220
+
+#EXTINF:0,44 - Channel 44
+udp://@239.192.54.10:49220
+
+#EXTINF:0,45 - Channel 45
+udp://@239.192.54.8:49220
+
+#EXTINF:0,46 - Channel 46
+udp://@239.192.55.4:49220
+
+#EXTINF:0,47 - Channel 47
+udp://@239.192.55.3:49220
+
+#EXTINF:0,48 - Channel 48
+udp://@239.192.55.5:49220
+
+#EXTINF:0,49 - Channel 49
+udp://@239.192.55.8:49220
+
+#EXTINF:0,50 - Channel 50
+udp://@239.192.55.7:49220
+
+#EXTINF:0,51 - Channel 51
+udp://@239.192.55.6:49220
+
+#EXTINF:0,52 - Channel 52
+udp://@239.192.56.6:49220
+
+#EXTINF:0,53 - Channel 53
+udp://@239.192.56.5:49220
+
+#EXTINF:0,54 - Channel 54
+udp://@239.192.57.5:49220
+
+#EXTINF:0,55 - Channel 55
+udp://@239.192.57.6:49220
+
+#EXTINF:0,56 - Channel 56
+udp://@239.192.57.3:49220
+
+#EXTINF:0,57 - Channel 57
+udp://@239.192.57.4:49220
+
+#EXTINF:0,58 - Channel 58
+udp://@239.192.57.7:49220
+
+#EXTINF:0,59 - Channel 59
+udp://@239.192.57.8:49220
+
+#EXTINF:0,60 - Channel 60
+udp://@239.192.58.3:49220
+
+#EXTINF:0,61 - Channel 61
+udp://@239.192.58.10:49220
+
+#EXTINF:0,62 - Channel 62
+udp://@239.192.58.7:49220
+
+#EXTINF:0,63 - Channel 63
+udp://@239.192.58.11:49220
+
+#EXTINF:0,64 - Channel 64
+udp://@239.192.58.5:49220
+
+#EXTINF:0,65 - Channel 65
+udp://@239.192.58.9:49220
+
+#EXTINF:0,66 - Channel 66
+udp://@239.192.59.7:49220
+
+#EXTINF:0,67 - Channel 67
+udp://@239.192.59.3:49220
+
+#EXTINF:0,68 - Channel 68
+udp://@239.192.59.5:49220
+
+#EXTINF:0,69 - Channel 69
+udp://@239.192.59.6:49220
+
+#EXTINF:0,70 - Channel 70
+udp://@239.192.62.51:49220
+
+#EXTINF:0,71 - Channel 71
+udp://@239.192.62.57:49220
+
+#EXTINF:0,72 - Channel 72
+udp://@239.192.62.56:49220
+
+#EXTINF:0,73 - Channel 73
+udp://@239.192.62.58:49220
+
+#EXTINF:0,74 - Channel 74
+udp://@239.192.62.62:49220
+
+#EXTINF:0,75 - Channel 75
+udp://@239.192.62.66:49220
+
+#EXTINF:0,76 - Channel 76
+udp://@239.192.62.64:49220
+
+#EXTINF:0,77 - Channel 77
+udp://@239.192.62.63:49220
+
+#EXTINF:0,78 - Channel 78
+udp://@239.192.62.61:49220
+
+#EXTINF:0,79 - Channel 79
+udp://@239.192.62.68:49220
+
+#EXTINF:0,80 - Channel 80
+udp://@239.192.62.69:49220
+
+#EXTINF:0,81 - Channel 81
+rtp://@239.192.62.71:49220
+
+#EXTINF:0,82 - Channel 82
+udp://@239.192.62.70:49220
+
+#EXTINF:0,83 - Channel 83
+udp://@239.192.62.67:49220
+
+#EXTINF:0,84 - Channel 84
+udp://@239.192.62.114:49220
+
+#EXTINF:0,85 - Channel 85
+udp://@239.192.62.115:49220
+
+#EXTINF:0,86 - Channel 86
+udp://@239.192.62.65:49220
+
+#EXTINF:0,87 - Channel 87
+udp://@239.192.62.81:49220
+
+#EXTINF:0,88 - Channel 88
+udp://@239.192.64.6:49220
+
+#EXTINF:0,89 - Channel 89
+udp://@239.192.64.5:49220
+
+#EXTINF:0,90 - Channel 90
+udp://@239.192.64.7:49220
+
+#EXTINF:0,91 - Channel 91
+udp://@239.192.64.8:49220
+
+#EXTINF:0,92 - Channel 92
+udp://@239.192.64.11:49220
+
+#EXTINF:0,93 - Channel 93
+udp://@239.192.64.10:49220
+
+#EXTINF:0,94 - Channel 94
+udp://@239.192.64.12:49220
+
+#EXTINF:0,95 - Channel 95
+udp://@239.192.64.14:49220
+
+#EXTINF:0,96 - Channel 96
+udp://@239.192.64.13:49220
+
+#EXTINF:0,97 - Channel 97
+udp://@239.192.64.17:49220
+
+#EXTINF:0,98 - Channel 98
+udp://@239.192.64.9:49220
+
+#EXTINF:0,99 - Channel 99
+udp://@239.192.64.16:49220
+
+#EXTINF:0,100 - Channel 100
+udp://@239.192.64.15:49220
+
+#EXTINF:0,101 - Channel 101
+udp://@239.192.65.16:49220
+
+#EXTINF:0,102 - Channel 102
+udp://@239.192.65.7:49220
+
+#EXTINF:0,103 - Channel 103
+udp://@239.192.65.6:49220
+
+#EXTINF:0,104 - Channel 104
+udp://@239.192.65.17:49220
+
+#EXTINF:0,105 - Channel 105
+udp://@239.192.65.10:49220
+
+#EXTINF:0,106 - Channel 106
+udp://@239.192.65.9:49220
+
+#EXTINF:0,107 - Channel 107
+udp://@239.192.65.11:49220
+
+#EXTINF:0,108 - Channel 108
+udp://@239.192.65.18:49220
+
+#EXTINF:0,109 - Channel 109
+udp://@239.192.65.3:49220
+
+#EXTINF:0,110 - Channel 110
+udp://@239.192.65.4:49220
+
+#EXTINF:0,111 - Channel 111
+udp://@239.192.65.5:49220
+
+#EXTINF:0,112 - Channel 112
+udp://@239.192.65.8:49220
+
+#EXTINF:0,113 - Channel 113
+udp://@239.192.65.12:49220
+
+#EXTINF:0,114 - Channel 114
+udp://@239.192.65.14:49220
+
+#EXTINF:0,115 - Channel 115
+udp://@239.192.66.4:49220
+
+#EXTINF:0,116 - Channel 116
+udp://@239.192.66.6:49220
+
+#EXTINF:0,117 - Channel 117
+udp://@239.192.66.10:49220
+
+#EXTINF:0,118 - Channel 118
+udp://@239.192.66.9:49220
+
+#EXTINF:0,119 - Channel 119
+udp://@239.192.66.14:49220
+
+#EXTINF:0,120 - Channel 120
+udp://@239.192.66.17:49220
+
+#EXTINF:0,121 - Channel 121
+udp://@239.192.66.16:49220
+
+#EXTINF:0,122 - Channel 122
+udp://@239.192.66.11:49220
+
+#EXTINF:0,123 - Channel 123
+udp://@239.192.66.8:49220
+
+#EXTINF:0,124 - Channel 124
+udp://@239.192.66.7:49220
+
+#EXTINF:0,125 - Channel 125
+udp://@239.192.66.15:49220
+
+#EXTINF:0,126 - Channel 126
+udp://@239.192.66.3:49220
+
+#EXTINF:0,127 - Channel 127
+udp://@239.192.66.5:49220
+
+#EXTINF:0,128 - Channel 128
+udp://@239.192.66.12:49220
+
+#EXTINF:0,129 - Channel 129
+udp://@239.192.66.13:49220
+
+#EXTINF:0,130 - Channel 130
+udp://@239.192.67.35:49220
+
+#EXTINF:0,131 - Channel 131
+udp://@239.192.67.34:49220
+
+#EXTINF:0,132 - Channel 132
+udp://@239.192.67.42:49220
+
+#EXTINF:0,133 - Channel 133
+udp://@239.192.67.43:49220
+
+#EXTINF:0,134 - Channel 134
+udp://@239.192.67.40:49220
+
+#EXTINF:0,135 - Channel 135
+udp://@239.192.67.67:49220
+
+#EXTINF:0,136 - Channel 136
+udp://@239.192.67.69:49220
+
+#EXTINF:0,137 - Channel 137
+udp://@239.192.67.98:49220
+
+#EXTINF:0,138 - Channel 138
+udp://@239.192.67.100:49220
+
+#EXTINF:0,139 - Channel 139
+udp://@239.192.67.99:49220
+
+#EXTINF:0,140 - Channel 140
+udp://@239.192.67.101:49220
+
+#EXTINF:0,141 - Channel 141
+udp://@239.192.67.132:49220
+
+#EXTINF:0,142 - Channel 142
+udp://@239.192.67.131:49220
+
+#EXTINF:0,143 - Channel 143
+udp://@239.192.67.133:49220
+
+#EXTINF:0,144 - Channel 144
+udp://@239.192.67.130:49220
+
+#EXTINF:0,145 - Channel 145
+udp://@239.192.67.162:49220
+
+#EXTINF:0,146 - Channel 146
+udp://@239.192.67.163:49220
+
+#EXTINF:0,147 - Channel 147
+udp://@239.192.67.164:49220
+
+#EXTINF:0,148 - Channel 148
+udp://@239.192.67.165:49220
+
+#EXTINF:0,149 - Channel 149
+udp://@239.192.67.195:49220
+
+#EXTINF:0,150 - Channel 150
+udp://@239.192.67.194:49220
+
+#EXTINF:0,151 - Channel 151
+udp://@239.192.67.197:49220
+
+#EXTINF:0,152 - Channel 152
+udp://@239.192.67.196:49220
+
+#EXTINF:0,153 - Channel 153
+udp://@239.192.67.226:49220
+
+#EXTINF:0,154 - Channel 154
+udp://@239.192.67.227:49220
+
+#EXTINF:0,155 - Channel 155
+udp://@239.192.67.229:49220
+
+#EXTINF:0,156 - Channel 156
+udp://@239.192.67.228:49220
+
+#EXTINF:0,157 - Channel 157
+udp://@239.192.68.4:49220
+
+#EXTINF:0,158 - Channel 158
+udp://@239.192.68.3:49220
+
+#EXTINF:0,159 - Channel 159
+udp://@239.192.68.9:49220
+
+#EXTINF:0,160 - Channel 160
+udp://@239.192.68.8:49220
+
+#EXTINF:0,161 - Channel 161
+udp://@239.192.68.15:49220
+
+#EXTINF:0,162 - Channel 162
+udp://@239.192.68.7:49220
+
+#EXTINF:0,163 - Channel 163
+udp://@239.192.68.5:49220
+
+#EXTINF:0,164 - Channel 164
+udp://@239.192.68.6:49220
+
+#EXTINF:0,165 - Channel 165
+udp://@239.192.68.10:49220
+
+#EXTINF:0,166 - Channel 166
+udp://@239.192.68.12:49220
+
+#EXTINF:0,167 - Channel 167
+udp://@239.192.68.13:49220
+
+#EXTINF:0,168 - Channel 168
+udp://@239.192.68.14:49220
+
+#EXTINF:0,169 - Channel 169
+udp://@239.192.68.16:49220
+
+#EXTINF:0,170 - Channel 170
+udp://@239.192.68.17:49220
+
+#EXTINF:0,171 - Channel 171
+udp://@239.192.69.4:49220
+
+#EXTINF:0,172 - Channel 172
+udp://@239.192.69.12:49220
+
+#EXTINF:0,173 - Channel 173
+udp://@239.192.69.3:49220
+
+#EXTINF:0,174 - Channel 174
+udp://@239.192.69.11:49220
+
+#EXTINF:0,175 - Channel 175
+udp://@239.192.69.14:49220
+
+#EXTINF:0,176 - Channel 176
+udp://@239.192.69.13:49220
+
+#EXTINF:0,177 - Channel 177
+udp://@239.192.69.15:49220
+
+#EXTINF:0,178 - Channel 178
+udp://@239.192.69.9:49220
+
+#EXTINF:0,179 - Channel 179
+udp://@239.192.69.17:49220
+
+#EXTINF:0,180 - Channel 180
+udp://@239.192.69.10:49220
+
+#EXTINF:0,181 - Channel 181
+udp://@239.192.69.16:49220
+
+#EXTINF:0,182 - Channel 182
+udp://@239.192.69.38:49220
+
+#EXTINF:0,183 - Channel 183
+udp://@239.192.69.35:49220
+
+#EXTINF:0,184 - Channel 184
+udp://@239.192.69.42:49220
+
+#EXTINF:0,185 - Channel 185
+udp://@239.192.69.41:49220
+
+#EXTINF:0,186 - Channel 186
+udp://@239.192.69.48:49220
+
+#EXTINF:0,187 - Channel 187
+udp://@239.192.69.45:49220
+
+#EXTINF:0,188 - Channel 188
+udp://@239.192.69.47:49220
+
+#EXTINF:0,189 - Channel 189
+udp://@239.192.69.49:49220
+
+#EXTINF:0,190 - Channel 190
+udp://@239.192.69.69:49220
+
+#EXTINF:0,191 - Channel 191
+udp://@239.192.69.70:49220
+
+#EXTINF:0,192 - Channel 192
+udp://@239.192.69.67:49220
+
+#EXTINF:0,193 - Channel 193
+udp://@239.192.69.68:49220
+
+#EXTINF:0,194 - Channel 194
+udp://@239.192.69.72:49220
+
+#EXTINF:0,195 - Channel 195
+udp://@239.192.69.73:49220
+
+#EXTINF:0,196 - Channel 196
+udp://@239.192.69.81:49220
+
+#EXTINF:0,197 - Channel 197
+udp://@239.192.69.77:49220
+
+#EXTINF:0,198 - Channel 198
+udp://@239.192.69.78:49220
+
+#EXTINF:0,199 - Channel 199
+udp://@239.192.69.76:49220
+
+#EXTINF:0,200 - Channel 200
+udp://@239.192.69.71:49220
+
+#EXTINF:0,201 - Channel 201
+udp://@239.192.69.74:49220
+
+#EXTINF:0,202 - Channel 202
+udp://@239.192.69.75:49220
+
+#EXTINF:0,203 - Channel 203
+udp://@239.192.69.79:49220
+
+#EXTINF:0,204 - Channel 204
+udp://@239.192.69.80:49220
+
+#EXTINF:0,205 - Channel 205
+udp://@239.192.69.101:49220
+
+#EXTINF:0,206 - Channel 206
+udp://@239.192.69.107:49220
+
+#EXTINF:0,207 - Channel 207
+udp://@239.192.69.100:49220
+
+#EXTINF:0,208 - Channel 208
+udp://@239.192.69.102:49220
+
+#EXTINF:0,209 - Channel 209
+udp://@239.192.69.109:49220
+
+#EXTINF:0,210 - Channel 210
+udp://@239.192.69.106:49220
+
+#EXTINF:0,211 - Channel 211
+udp://@239.192.69.105:49220
+
+#EXTINF:0,212 - Channel 212
+udp://@239.192.69.112:49220
+
+#EXTINF:0,213 - Channel 213
+udp://@239.192.69.103:49220
+
+#EXTINF:0,214 - Channel 214
+udp://@239.192.69.111:49220
+
+#EXTINF:0,215 - Channel 215
+udp://@239.192.69.110:49220
+
+#EXTINF:0,216 - Channel 216
+udp://@239.192.69.108:49220
+
+#EXTINF:0,217 - Channel 217
+udp://@239.192.69.113:49220
+
+#EXTINF:0,218 - Channel 218
+udp://@239.192.69.104:49220
+
+#EXTINF:0,219 - Channel 219
+udp://@239.192.69.6:49220
+
+#EXTINF:0,220 - Channel 220
+udp://@239.192.69.7:49220
+
+#EXTINF:0,221 - Channel 221
+udp://@239.192.69.5:49220
+
+#EXTINF:0,222 - Channel 222
+udp://@239.192.69.8:49220
+
+#EXTINF:0,223 - Channel 223
+udp://@239.192.69.131:49220
+
+#EXTINF:0,224 - Channel 224
+udp://@239.192.69.138:49220
+
+#EXTINF:0,225 - Channel 225
+udp://@239.192.69.130:49220
+
+#EXTINF:0,226 - Channel 226
+udp://@239.192.69.133:49220
+
+#EXTINF:0,227 - Channel 227
+udp://@239.192.69.134:49220
+
+#EXTINF:0,228 - Channel 228
+udp://@239.192.69.144:49220
+
+#EXTINF:0,229 - Channel 229
+udp://@239.192.69.142:49220
+
+#EXTINF:0,230 - Channel 230
+udp://@239.192.69.143:49220
+
+#EXTINF:0,231 - Channel 231
+udp://@239.192.69.137:49220
+
+#EXTINF:0,232 - Channel 232
+udp://@239.192.69.132:49220
+
+#EXTINF:0,233 - Channel 233
+udp://@239.192.69.136:49220
+
+#EXTINF:0,234 - Channel 234
+udp://@239.192.69.140:49220
+
+#EXTINF:0,235 - Channel 235
+udp://@239.192.69.141:49220
+
+#EXTINF:0,236 - Channel 236
+udp://@239.192.69.139:49220
+
+#EXTINF:0,237 - Channel 237
+udp://@239.192.69.135:49220
+
+#EXTINF:0,238 - Channel 238
+udp://@239.192.69.162:49220
+
+#EXTINF:0,239 - Channel 239
+udp://@239.192.69.36:49220
+
+#EXTINF:0,240 - Channel 240
+udp://@239.192.69.37:49220
+
+#EXTINF:0,241 - Channel 241
+udp://@239.192.69.39:49220
+
+#EXTINF:0,242 - Channel 242
+udp://@239.192.69.40:49220
+
+#EXTINF:0,243 - Channel 243
+udp://@239.192.69.163:49220
+
+#EXTINF:0,244 - Channel 244
+udp://@239.192.69.164:49220
+
+#EXTINF:0,245 - Channel 245
+udp://@239.192.69.165:49220
+
+#EXTINF:0,246 - Channel 246
+udp://@239.192.69.172:49220
+
+#EXTINF:0,247 - Channel 247
+udp://@239.192.69.169:49220
+
+#EXTINF:0,248 - Channel 248
+udp://@239.192.69.168:49220
+
+#EXTINF:0,249 - Channel 249
+udp://@239.192.69.170:49220
+
+#EXTINF:0,250 - Channel 250
+udp://@239.192.69.43:49220
+
+#EXTINF:0,251 - Channel 251
+udp://@239.192.69.44:49220
+
+#EXTINF:0,252 - Channel 252
+udp://@239.192.69.175:49220
+
+#EXTINF:0,253 - Channel 253
+udp://@239.192.69.174:49220
+
+#EXTINF:0,254 - Channel 254
+udp://@239.192.69.176:49220
+
+#EXTINF:0,255 - Channel 255
+udp://@239.192.69.171:49220
+
+#EXTINF:0,256 - Channel 256
+udp://@239.192.69.173:49220
+
+#EXTINF:0,257 - Channel 257
+udp://@239.192.69.166:49220
+
+#EXTINF:0,258 - Channel 258
+udp://@239.192.69.167:49220
+
+#EXTINF:0,259 - Channel 259
+udp://@239.192.69.195:49220
+
+#EXTINF:0,260 - Channel 260
+udp://@239.192.69.200:49220
+
+#EXTINF:0,261 - Channel 261
+udp://@239.192.69.196:49220
+
+#EXTINF:0,262 - Channel 262
+udp://@239.192.69.202:49220
+
+#EXTINF:0,263 - Channel 263
+udp://@239.192.69.199:49220
+
+#EXTINF:0,264 - Channel 264
+udp://@239.192.69.201:49220
+
+#EXTINF:0,265 - Channel 265
+udp://@239.192.69.197:49220
+
+#EXTINF:0,266 - Channel 266
+udp://@239.192.69.198:49220
+
+#EXTINF:0,267 - Channel 267
+udp://@239.192.69.203:49220
+
+#EXTINF:0,268 - Channel 268
+udp://@239.192.69.206:49220
+
+#EXTINF:0,269 - Channel 269
+udp://@239.192.69.209:49220
+
+#EXTINF:0,270 - Channel 270
+udp://@239.192.69.204:49220
+
+#EXTINF:0,271 - Channel 271
+udp://@239.192.69.207:49220
+
+#EXTINF:0,272 - Channel 272
+udp://@239.192.69.205:49220
+
+#EXTINF:0,273 - Channel 273
+udp://@239.192.69.208:49220
+
+#EXTINF:0,274 - Channel 274
+udp://@239.192.69.229:49220
+
+#EXTINF:0,275 - Channel 275
+udp://@239.192.69.232:49220
+
+#EXTINF:0,276 - Channel 276
+udp://@239.192.69.231:49220
+
+#EXTINF:0,277 - Channel 277
+udp://@239.192.69.234:49220
+
+#EXTINF:0,278 - Channel 278
+udp://@239.192.69.230:49220
+
+#EXTINF:0,279 - Channel 279
+udp://@239.192.69.236:49220
+
+#EXTINF:0,280 - Channel 280
+udp://@239.192.69.228:49220
+
+#EXTINF:0,281 - Channel 281
+udp://@239.192.69.238:49220
+
+#EXTINF:0,282 - Channel 282
+udp://@239.192.69.235:49220
+
+#EXTINF:0,283 - Channel 283
+udp://@239.192.69.239:49220
+
+#EXTINF:0,284 - Channel 284
+udp://@239.192.69.227:49220
+
+#EXTINF:0,285 - Channel 285
+udp://@239.192.69.241:49220
+
+#EXTINF:0,286 - Channel 286
+udp://@239.192.69.233:49220
+
+#EXTINF:0,287 - Channel 287
+udp://@239.192.69.240:49220
+
+#EXTINF:0,288 - Channel 288
+udp://@239.192.70.4:49220
+
+#EXTINF:0,289 - Channel 289
+udp://@239.192.70.7:49220
+
+#EXTINF:0,290 - Channel 290
+udp://@239.192.70.9:49220
+
+#EXTINF:0,291 - Channel 291
+udp://@239.192.70.8:49220
+
+#EXTINF:0,292 - Channel 292
+udp://@239.192.70.5:49220
+
+#EXTINF:0,293 - Channel 293
+udp://@239.192.70.3:49220
+
+#EXTINF:0,294 - Channel 294
+udp://@239.192.70.12:49220
+
+#EXTINF:0,295 - Channel 295
+udp://@239.192.70.13:49220
+
+#EXTINF:0,296 - Channel 296
+udp://@239.192.70.6:49220
+
+#EXTINF:0,297 - Channel 297
+udp://@239.192.70.16:49220
+
+#EXTINF:0,298 - Channel 298
+udp://@239.192.70.14:49220
+
+#EXTINF:0,299 - Channel 299
+udp://@239.192.70.11:49220
+
+#EXTINF:0,300 - Channel 300
+udp://@239.192.70.10:49220
+
+#EXTINF:0,301 - Channel 301
+udp://@239.192.70.15:49220
+
+#EXTINF:0,302 - Channel 302
+udp://@239.192.70.37:49220
+
+#EXTINF:0,303 - Channel 303
+udp://@239.192.70.36:49220
+
+#EXTINF:0,304 - Channel 304
+udp://@239.192.70.35:49220
+
+#EXTINF:0,305 - Channel 305
+udp://@239.192.70.39:49220
+
+#EXTINF:0,306 - Channel 306
+udp://@239.192.70.42:49220
+
+#EXTINF:0,307 - Channel 307
+udp://@239.192.70.38:49220
+
+#EXTINF:0,308 - Channel 308
+udp://@239.192.70.43:49220
+
+#EXTINF:0,309 - Channel 309
+udp://@239.192.70.40:49220
+
+#EXTINF:0,310 - Channel 310
+udp://@239.192.70.41:49220
+
+#EXTINF:0,311 - Channel 311
+udp://@239.192.70.48:49220
+
+#EXTINF:0,312 - Channel 312
+udp://@239.192.70.49:49220
+
+#EXTINF:0,313 - Channel 313
+udp://@239.192.70.47:49220
+
+#EXTINF:0,314 - Channel 314
+udp://@239.192.70.44:49220
+
+#EXTINF:0,315 - Channel 315
+udp://@239.192.70.46:49220
+
+#EXTINF:0,316 - Channel 316
+udp://@239.192.70.45:49220
+
+#EXTINF:0,317 - Channel 317
+udp://@239.192.70.161:49220
+
+#EXTINF:0,318 - KISS_1
+udp://@239.192.70.163:49220
+
+#EXTINF:0,319 - KISS_1
+udp://@239.192.70.162:49220
+
+#EXTINF:0,320 - KISS_5
+udp://@239.192.70.164:49220
+
+#EXTINF:0,321 - KISS_1
+udp://@239.192.70.165:49220
+
+#EXTINF:0,322 - KISS_5
+udp://@239.192.70.166:49220
+
+#EXTINF:0,323 - KISS_2
+udp://@239.192.70.167:49220
+
+#EXTINF:0,324 - KISS_3
+udp://@239.192.70.168:49220
+
+#EXTINF:0,325 - KISS_4
+udp://@239.192.70.170:49220
+
+#EXTINF:0,326 - KISS_3
+udp://@239.192.70.169:49220
+
+#EXTINF:0,327 - KISS_1
+udp://@239.192.70.171:49220
+
+#EXTINF:0,328 - KISS_3
+udp://@239.192.70.172:49220
+
+#EXTINF:0,329 - KISS_4
+udp://@239.192.70.173:49220
+
+#EXTINF:0,330 - Channel 330
+udp://@239.192.70.174:49220
+
+#EXTINF:0,331 - Channel 331
+udp://@239.192.70.175:49220
+
+#EXTINF:0,332 - Channel 332
+udp://@239.192.70.176:49220
+
+#EXTINF:0,333 - Channel 333
+udp://@239.192.70.178:49220
+
+#EXTINF:0,334 - Satio11
+udp://@239.192.70.179:49220
+
+#EXTINF:0,335 - Satio8
+udp://@239.192.70.182:49220
+
+#EXTINF:0,336 - Satio16
+udp://@239.192.70.181:49220
+
+#EXTINF:0,337 - Satio4
+udp://@239.192.70.183:49220
+
+#EXTINF:0,338 - Satio14
+udp://@239.192.70.189:49220
+
+#EXTINF:0,339 - Satio13
+udp://@239.192.70.188:49220
+
+#EXTINF:0,340 - Satio3
+udp://@239.192.70.190:49220
+
+#EXTINF:0,341 - Satio15
+udp://@239.192.70.185:49220
+
+#EXTINF:0,342 - Satio7
+udp://@239.192.70.186:49220
+
+#EXTINF:0,343 - Satio9
+udp://@239.192.70.180:49220
+
+#EXTINF:0,344 - 
+udp://@239.192.70.227:49220
+
+#EXTINF:0,345 - Channel 345
+udp://@239.192.70.235:49220
+
+#EXTINF:0,346 - Channel 346
+udp://@239.192.70.229:49220
+
+#EXTINF:0,347 - Channel 347
+udp://@239.192.70.237:49220
+
+#EXTINF:0,348 - Channel 348
+udp://@239.192.70.231:49220
+
+#EXTINF:0,349 - Channel 349
+udp://@239.192.70.233:49220
+
+#EXTINF:0,350 - Satio1
+udp://@239.192.70.187:49220
+
+#EXTINF:0,351 - Satio2
+udp://@239.192.70.177:49220
+
+#EXTINF:0,352 - Satio10
+udp://@239.192.70.184:49220
+
+#EXTINF:0,353 - Channel 353
+udp://@239.192.80.5:49220
+
+#EXTINF:0,354 - Channel 354
+udp://@239.192.80.3:49220
+
+#EXTINF:0,355 - Service01
+udp://@239.192.81.5:49220
+
+#EXTINF:0,356 - Service01
+udp://@239.192.81.4:49220
+
+#EXTINF:0,357 - Service01
+udp://@239.192.81.6:49220
+
+#EXTINF:0,358 - Service01
+udp://@239.192.81.3:49220
+
+#EXTINF:0,359 - Service01
+udp://@239.192.81.7:49220
+
+#EXTINF:0,360 - Channel 360
+rtp://@239.192.81.34:49220
+
+#EXTINF:0,361 - Channel 361
+rtp://@239.192.81.36:49220
+
+#EXTINF:0,362 - Channel 362
+rtp://@239.192.81.38:49220
+
+#EXTINF:0,363 - Channel 363
+rtp://@239.192.81.37:49220
+
+#EXTINF:0,364 - Channel 364
+rtp://@239.192.81.39:49220
+
+#EXTINF:0,365 - Channel 365
+rtp://@239.192.81.65:49220
+
