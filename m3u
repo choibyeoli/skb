@@ -194,136 +194,97 @@ udp://@239.192.62.70:49220
 #EXTINF:0,83 - CATCH ON 1
 udp://@239.192.62.67:49220
 
-#EXTINF:0,84 - Channel 84
+#EXTINF:0,84 - SBS Golf
 udp://@239.192.62.114:49220
 
-#EXTINF:0,85 - Channel 85
+#EXTINF:0,85 - YTN
 udp://@239.192.62.115:49220
 
-#EXTINF:0,86 - Channel 86
+#EXTINF:0,86 - JTBC
 udp://@239.192.62.65:49220
 
-#EXTINF:0,87 - Channel 87
+#EXTINF:0,87 - YTN
 udp://@239.192.62.81:49220
 
-#EXTINF:0,88 - Channel 88
+#EXTINF:0,88 - 신세계쇼핑
 udp://@239.192.64.6:49220
 
-#EXTINF:0,89 - Channel 89
+#EXTINF:0,89 - 국회방송
 udp://@239.192.64.5:49220
 
-#EXTINF:0,90 - Channel 90
+#EXTINF:0,90 - CJ오쇼핑
 udp://@239.192.64.7:49220
 
-#EXTINF:0,91 - Channel 91
-udp://@239.192.64.8:49220
-
-#EXTINF:0,92 - Channel 92
+#EXTINF:0,92 - KTV 국민방송
 udp://@239.192.64.11:49220
 
-#EXTINF:0,93 - Channel 93
+#EXTINF:0,93 - M plex
 udp://@239.192.64.10:49220
 
-#EXTINF:0,94 - Channel 94
+#EXTINF:0,94 - SK스토아
 udp://@239.192.64.12:49220
 
-#EXTINF:0,95 - Channel 95
-udp://@239.192.64.14:49220
-
-#EXTINF:0,96 - Channel 96
-udp://@239.192.64.13:49220
-
-#EXTINF:0,97 - Channel 97
-udp://@239.192.64.17:49220
-
-#EXTINF:0,98 - Channel 98
+#EXTINF:0,98 - Channel CHINA
 udp://@239.192.64.9:49220
 
-#EXTINF:0,99 - Channel 99
+#EXTINF:0,99 - sky Travel
 udp://@239.192.64.16:49220
 
-#EXTINF:0,100 - Channel 100
-udp://@239.192.64.15:49220
-
-#EXTINF:0,101 - Channel 101
+#EXTINF:0,101 - OBS W
 udp://@239.192.65.16:49220
 
-#EXTINF:0,102 - Channel 102
+#EXTINF:0,102 - Tomato tv
 udp://@239.192.65.7:49220
 
-#EXTINF:0,103 - Channel 103
+#EXTINF:0,103 - NS Shop+
 udp://@239.192.65.6:49220
 
-#EXTINF:0,104 - Channel 104
+#EXTINF:0,104 - nick
 udp://@239.192.65.17:49220
 
-#EXTINF:0,105 - Channel 105
+#EXTINF:0,105 - 더블유쇼핑
 udp://@239.192.65.10:49220
 
-#EXTINF:0,106 - Channel 106
+#EXTINF:0,106 - SK스토아
 udp://@239.192.65.9:49220
 
-#EXTINF:0,107 - Channel 107
+#EXTINF:0,107 - Done
 udp://@239.192.65.11:49220
 
-#EXTINF:0,108 - Channel 108
-udp://@239.192.65.18:49220
-
-#EXTINF:0,109 - Channel 109
-udp://@239.192.65.3:49220
-
-#EXTINF:0,110 - Channel 110
+#EXTINF:0,110 - FISHING TV
 udp://@239.192.65.4:49220
 
-#EXTINF:0,111 - Channel 111
+#EXTINF:0,111 - AsiaN
 udp://@239.192.65.5:49220
 
-#EXTINF:0,112 - Channel 112
+#EXTINF:0,112 - Arte
 udp://@239.192.65.8:49220
 
-#EXTINF:0,113 - Channel 113
+#EXTINF:0,113 - BOOMERANG
 udp://@239.192.65.12:49220
 
-#EXTINF:0,114 - Channel 114
+#EXTINF:0,114 - ANIPLUS
 udp://@239.192.65.14:49220
 
-#EXTINF:0,115 - Channel 115
+#EXTINF:0,115 - GS MY SHOP
 udp://@239.192.66.4:49220
 
-#EXTINF:0,116 - Channel 116
+#EXTINF:0,116 - 공영쇼핑
 udp://@239.192.66.6:49220
 
-#EXTINF:0,117 - Channel 117
-udp://@239.192.66.10:49220
-
-#EXTINF:0,118 - Channel 118
+#EXTINF:0,118 - SK스토아
 udp://@239.192.66.9:49220
 
-#EXTINF:0,119 - Channel 119
+#EXTINF:0,119 - arirang KOREA
 udp://@239.192.66.14:49220
 
-#EXTINF:0,120 - Channel 120
+#EXTINF:0,120 - K쇼핑
 udp://@239.192.66.17:49220
 
-#EXTINF:0,121 - Channel 121
-udp://@239.192.66.16:49220
-
-#EXTINF:0,122 - Channel 122
-udp://@239.192.66.11:49220
-
-#EXTINF:0,123 - Channel 123
-udp://@239.192.66.8:49220
-
-#EXTINF:0,124 - Channel 124
-udp://@239.192.66.7:49220
-
-#EXTINF:0,125 - Channel 125
-udp://@239.192.66.15:49220
-
-#EXTINF:0,126 - Channel 126
+#EXTINF:0,126 - NOVELA
 udp://@239.192.66.3:49220
 
-#EXTINF:0,127 - Channel 127
+#EXTINF:0,127 - 헬스메디
 udp://@239.192.66.5:49220
 
 #EXTINF:0,128 - Channel 128
