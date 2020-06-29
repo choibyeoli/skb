@@ -71,9 +71,6 @@ udp://@239.192.51.5:49220
 #EXTINF:0,28 - OCN Movies
 udp://@239.192.51.7:49220
 
-#EXTINF:0,29 - Channel 29
-udp://@239.192.51.6:49220
-
 #EXTINF:0,30 - EBS
 udp://@239.192.52.9:49220
 
@@ -140,88 +137,61 @@ udp://@239.192.56.5:49220
 #EXTINF:0,55 - XtvN
 udp://@239.192.57.6:49220
 
-#EXTINF:0,56 - Channel 56
+#EXTINF:0,56 - 연합뉴스TV
 udp://@239.192.57.3:49220
-
-#EXTINF:0,57 - Channel 57
-udp://@239.192.57.4:49220
 
 #EXTINF:0,58 - IB SPORTS
 udp://@239.192.57.7:49220
 
-#EXTINF:0,59 - Channel 59
+#EXTINF:0,59 - KBS W
 udp://@239.192.57.8:49220
-
-#EXTINF:0,60 - Channel 60
-udp://@239.192.58.3:49220
 
 #EXTINF:0,61 - Olive
 udp://@239.192.58.10:49220
 
-#EXTINF:0,62 - Channel 62
+#EXTINF:0,62 - JTBC
 udp://@239.192.58.7:49220
 
-#EXTINF:0,63 - Channel 63
+#EXTINF:0,63 - CJ오쇼핑
 udp://@239.192.58.11:49220
-
-#EXTINF:0,64 - Channel 64
-udp://@239.192.58.5:49220
-
-#EXTINF:0,65 - Channel 65
-udp://@239.192.58.9:49220
-
-#EXTINF:0,66 - Channel 66
-udp://@239.192.59.7:49220
-
-#EXTINF:0,67 - Channel 67
-udp://@239.192.59.3:49220
-
-#EXTINF:0,68 - Channel 68
-udp://@239.192.59.5:49220
-
-#EXTINF:0,69 - Channel 69
-udp://@239.192.59.6:49220
-
-#EXTINF:0,70 - Channel 70
-udp://@239.192.62.51:49220
 
 #EXTINF:0,71 - 뽀요TV
 udp://@239.192.62.57:49220
 
-#EXTINF:0,72 - Channel 72
+#EXTINF:0,72 - EDGE TV
 udp://@239.192.62.56:49220
 
-#EXTINF:0,73 - Channel 73
+#EXTINF:0,73 - MBC ON
 udp://@239.192.62.58:49220
 
-#EXTINF:0,74 - Channel 74
+#EXTINF:0,74 - SK스토아
 udp://@239.192.62.62:49220
 
-#EXTINF:0,75 - Channel 75
+#EXTINF:0,75 - CJ오쇼핑
 udp://@239.192.62.66:49220
 
-#EXTINF:0,76 - Channel 76
+#EXTINF:0,76 - SPOTV
 udp://@239.192.62.64:49220
 
 #EXTINF:0,77 - tvN
 udp://@239.192.62.63:49220
 
-#EXTINF:0,78 - Channel 78
+#EXTINF:0,78 - SBS Plus
 udp://@239.192.62.61:49220
 
-#EXTINF:0,79 - Channel 79
+#EXTINF:0,79 - YTN
 udp://@239.192.62.68:49220
 
-#EXTINF:0,80 - Channel 80
+#EXTINF:0,80 - OCN Thrills
 udp://@239.192.62.69:49220
 
-#EXTINF:0,81 - Channel 81
+#EXTINF:0,81 - KBS joy
 rtp://@239.192.62.71:49220
 
-#EXTINF:0,82 - Channel 82
+#EXTINF:0,82 - CNN
 udp://@239.192.62.70:49220
 
-#EXTINF:0,83 - Channel 83
+#EXTINF:0,83 - CATCH ON 1
 udp://@239.192.62.67:49220
 
 #EXTINF:0,84 - Channel 84
