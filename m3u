@@ -2,34 +2,34 @@
 #EXTINF:0,1 tvg-id="11",KBS1
 udp://@239.192.38.1:49220
 
-#EXTINF:0,2 - KBS2
+#EXTINF:0,2 tvg-id="12",KBS2
 udp://@239.192.39.1:49220
 
-#EXTINF:0,3 - MBC
+#EXTINF:0,3 tvg-id="13",MBC
 udp://@239.192.40.26:49220
 
-#EXTINF:0,4 - SBS
+#EXTINF:0,4 tvg-id="14",SBS
 udp://@239.192.41.2:49220
 
-#EXTINF:0,5 - EBS1
+#EXTINF:0,5 tvg-id="15",EBS1
 udp://@239.192.42.1:49220
 
-#EXTINF:0,6 - EBS2
+#EXTINF:0,6 tvg-id="63",- EBS2
 udp://@239.192.42.2:49220
 
-#EXTINF:0,7 - MBN
+#EXTINF:0,7 tvg-id="241",MBN
 udp://@239.192.45.5:49220
 
-#EXTINF:0,8 - 채널A
+#EXTINF:0,8 tvg-id="242",채널A
 udp://@239.192.47.4:49220
 
-#EXTINF:0,10 - YTN
+#EXTINF:0,10 tvg-id="570",YTN
 udp://@239.192.47.7:49220
 
-#EXTINF:0,11 - 엠넷
+#EXTINF:0,11 tvg-id="873",엠넷
 udp://@239.192.48.5:49220
 
-#EXTINF:0,12 - 현대홈쇼핑
+#EXTINF:0,12 tvg-id="321",현대홈쇼핑
 udp://@239.192.48.4:49220
 
 #EXTINF:0,13 - MBC drama
