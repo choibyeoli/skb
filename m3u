@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,1 - KBS1
+#EXTINF:0,1 tvg-id="11",KBS1
 udp://@239.192.38.1:49220
 
 #EXTINF:0,2 - KBS2
